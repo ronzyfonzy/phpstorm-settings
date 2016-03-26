@@ -14,9 +14,6 @@
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </JSCodeStyleSettings>
-  <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
