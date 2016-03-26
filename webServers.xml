@@ -1,0 +1,98 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6fc84662-447d-4f3a-84ff-65518d4128fe" name="Facility" url="http://test.facility.loc">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d8abecdf-de0c-41a4-b0c9-1e85b6ec9bb4" name="wordpress" url="http://wordpress.loc">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8e3f1c61-7b9a-4fef-bc5e-46c66e20f309" name="Sql2Java" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d00f7f8e-4ee0-4c63-b1d7-57abe58c629f" name="RonzyFonzyPackages" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c79e439b-9163-4c45-9507-1ce5ef718bab" name="MXGear" url="http://mxgear.si">
+        <fileTransfer host="mxgear.si" port="21" rootFolder="/public_html" password="dfd9df93dfc0dfdfdffbdfe8df9bdfc8df9bdf9a" username="mxgearsi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a201e61b-25c7-400c-b496-bc2a00b211b9" name="Lono - VilaDev" url="http://vila2.lono.si/">
+        <fileTransfer host="vila2.lono.si" port="21" password="dffcdfc6dfdcdfe5dfe6dfccdfe5dfcfdfc6dfe2dffd" username="defaultvila2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3fcad1e0-1977-4a5f-9d06-67db7ea178be" name="Facility Development" url="http://188.226.179.219">
+        <fileTransfer host="188.226.179.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/facility" accessType="SFTP" passphrase="dfc1dfcedff2df9cdfdfdfc1df9edfecdf9fdfcedfc3dfffdfd0dfc2dfcddff3dfc4dffddfd8dfe4" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="54514f74-65de-422e-a713-a01e42ee4e2b" name="Lono - MXGear" url="http://vila2.lono.si/">
+        <fileTransfer host="lono.si" port="22" accessType="SFTP" password="dfccdfdfdfc9dfc1dfc3dfc4dfcddf84dfc2df9edfd2dfd2df9adfd8dfd9df8b" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="54a26075-b26d-4983-834f-2fd233c70a61" name="Lono - VilaPub" url="http://nepremicnine-konjice.si">
+        <fileTransfer host="nepremicnine-konjice.si" port="21" username="neprkonjice_ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="759da433-1c56-47c2-a8a6-9c4008a8d9f6" name="Facility MDM" url="http://178.62.229.143">
+        <fileTransfer host="178.62.229.143" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/facility" accessType="SFTP" passphrase="dfc1dfcedff2df9cdfdfdfc1df9edfecdf9fdfcedfc3dfffdfd0dfc2dfcddff3dfc4dffddfd8dfe4" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a2d78632-8317-4a11-8008-0640504df266" name="AWS - Production" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8029507d-a8ba-4e7d-802f-3b68b0f402d2" name="BBNatura" url="http://ftp.goclickdev.eu">
+        <fileTransfer host="ftp.goclickdev.eu" port="21" username="bbnatura@goclickdev.eu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="484c5ef4-85c1-4181-9d85-3eebfc66f687" name="MyHetzner" url="http://88.198.150.197">
+        <fileTransfer host="88.198.150.197" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/bbnatura" accessType="SFTP" passphrase="dfc1dfcedff2df9cdfdfdfc1df9edfecdf9fdfcedfc3dfffdfd0dfc2dfcddff3dfc4dffddfd8dfe4" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0cfe5ba5-a8db-477e-938b-1a84dbfed060" name="AWS - Production Node" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/node" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
