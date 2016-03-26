@@ -19,6 +19,7 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="SelectNextOccurrence">
