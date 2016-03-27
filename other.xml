@@ -59,7 +59,7 @@
     <local-interpreter path="/usr/bin/node" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1459035766870" />
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1459037562598" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

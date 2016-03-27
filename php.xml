@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant:///home/ronzy/Development/creatriks/facility_web/usr/bin/php" id="6865d2b3-a9d0-4923-a333-fac296b665ee" name="Remote PHP" debugger_id="php.debugger.XDebug">
