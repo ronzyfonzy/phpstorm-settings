@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3fcad1e0-1977-4a5f-9d06-67db7ea178be" name="Facility Development" url="http://188.226.179.219">
-        <fileTransfer host="188.226.179.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/facility" accessType="SFTP" passphrase="dfc1dfcedff2df9cdfdfdfc1df9edfecdf9fdfcedfc3dfffdfd0dfc2dfcddff3dfc4dffddfd8dfe4" username="root" keyPair="true">
+        <fileTransfer host="188.226.179.219" port="22" rootFolder="/var/www/facility" accessType="SFTP" password="dfd3dfffdfebdf9edff3dfc8dfc0df85df87df81dffadfe9dff3dfebdfe7df94" username="root">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
