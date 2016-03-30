@@ -84,6 +84,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5e0040c3-7a34-4502-b2b3-ab55393824dc" name="Facility Development Uros" url="http://188.226.179.219">
+        <fileTransfer host="188.226.179.219" port="22" rootFolder="/var/www/facility" accessType="SFTP" password="df92df9cdf9cdfcedf99dfc8df92df9bdfc9dfcb" username="uros">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
