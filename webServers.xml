@@ -1,17 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6fc84662-447d-4f3a-84ff-65518d4128fe" name="Facility" url="http://test.facility.loc">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="d8abecdf-de0c-41a4-b0c9-1e85b6ec9bb4" name="wordpress" url="http://wordpress.loc">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="8e3f1c61-7b9a-4fef-bc5e-46c66e20f309" name="Sql2Java" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="d00f7f8e-4ee0-4c63-b1d7-57abe58c629f" name="RonzyFonzyPackages" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="6fc84662-447d-4f3a-84ff-65518d4128fe" name="Facility" url="https://loc.facilityforhotels.com:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="c79e439b-9163-4c45-9507-1ce5ef718bab" name="MXGear" url="http://mxgear.si">
         <fileTransfer host="mxgear.si" port="21" rootFolder="/public_html" password="dfd9df93dfc0dfdfdffbdfe8df9bdfc8df9bdf9a" username="mxgearsi">
