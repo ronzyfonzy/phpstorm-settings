@@ -28,6 +28,9 @@
   </action>
   <action id="Inline" />
   <action id="IntroduceField" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl alt u" second-keystroke="ctrl alt f" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -37,6 +40,7 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="ShowUsages" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
