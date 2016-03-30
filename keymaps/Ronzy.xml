@@ -15,6 +15,7 @@
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.SetNull" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -22,6 +23,11 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="Inline" />
+  <action id="IntroduceField" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
