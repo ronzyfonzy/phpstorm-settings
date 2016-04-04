@@ -69,7 +69,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="484c5ef4-85c1-4181-9d85-3eebfc66f687" name="MyHetzner" url="http://88.198.150.197">
-        <fileTransfer host="88.198.150.197" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/bbnatura" accessType="SFTP" passphrase="dfc1dfcedff2df9cdfdfdfc1df9edfecdf9fdfcedfc3dfffdfd0dfc2dfcddff3dfc4dffddfd8dfe4" username="root" keyPair="true">
+        <fileTransfer host="88.198.150.197" port="22" rootFolder="/var/www/bbnatura" accessType="SFTP" password="dff2dfc7dfd9dff9dfdedfe0dfd9df9edfe0dffcdfcedf9ddfd2df9bdf9fdf9cdfd8dfcbdf9adffd" username="root">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
