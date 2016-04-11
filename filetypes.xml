@@ -8,6 +8,7 @@
       <mapping pattern="integration_parser" type="PLAIN_TEXT" />
       <mapping pattern="facility_schedule" type="PLAIN_TEXT" />
       <mapping pattern="report_assignments.sql" type="PLAIN_TEXT" />
+      <mapping pattern="integration_parser_remote-database" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser_ooobyreason" type="PLAIN_TEXT" />
