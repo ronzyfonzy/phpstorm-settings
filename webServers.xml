@@ -53,7 +53,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a2d78632-8317-4a11-8008-0640504df266" name="AWS - Production" url="http://52.28.212.212">
-        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/opsbridge/" accessType="SFTP" username="ubuntu" keyPair="true">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
