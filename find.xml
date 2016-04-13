@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/home/ronzy/Development/creatriks/facility_web/application/sql/tools/new_db_helpers'" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
-      <mask>*.php</mask>
       <mask>*.html</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
