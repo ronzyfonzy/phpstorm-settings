@@ -61,6 +61,20 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1459037562598" />
   </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="http://youtrack.creatriks.si:8080">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>dfd3dfc5dfdfdfdedfd8dfcbdfc9dfc1df98df9adf9bdf99dfd9dfc4dfc5dfdadff3df9adf98</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>robert@facility.si</username>
+    </YouTrack>
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
