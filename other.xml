@@ -74,6 +74,18 @@
       <option name="useProxy" value="false" />
       <username>robert@facility.si</username>
     </YouTrack>
+    <YouTrack shared="false" url="https://ronzyfonzy.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>dfd3dfc5dfdfdfdedfd8dfcbdfc9dfc1df98df9adf9bdf99dfd9dfc4dfc5dfdadff3df9adf98</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>robi.tajnsek@gmail.com</username>
+    </YouTrack>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
