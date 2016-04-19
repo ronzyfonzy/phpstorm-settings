@@ -6,8 +6,12 @@
           <option name="url" value="https://Ronzy@bitbucket.org/Ronzy/e-godba-client-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Ronzy@bitbucket.org/facility_team/facility_micros.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Robert\PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\ronzy\Development\creatriks" />
   </component>
 </application>
