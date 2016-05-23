@@ -8,6 +8,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="MySQL" />
@@ -78,6 +79,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_63" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.php" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="JSON" />
