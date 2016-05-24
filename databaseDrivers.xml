@@ -6,6 +6,18 @@
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-12.1.0.2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-12.1.0.2.jar</url>
+      </library>
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
       <option name="auto-sync" value="true" />
@@ -52,10 +64,12 @@
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <property name="autoReconnect" value="true" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
       <property name="characterEncoding" value="utf8" />
