@@ -100,6 +100,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="bec91658-c31b-4de8-bc90-7aaaf167dfd8" name="Facility Development Integrations" url="http://188.226.179.219">
+        <fileTransfer host="188.226.179.219" port="22" rootFolder="/home/" accessType="SFTP" password="dfd3dfffdfebdf9edff3dfc8dfc0df85df87df81dffadfe9dff3dfebdfe7df94" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
