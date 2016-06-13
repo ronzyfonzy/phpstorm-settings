@@ -8,6 +8,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" value="PHP" />
@@ -33,6 +34,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.php" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19" value="JavaScript" />
