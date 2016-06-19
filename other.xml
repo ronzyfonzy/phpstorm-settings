@@ -59,7 +59,7 @@
     <local-interpreter path="/usr/bin/node" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1466370321217" />
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1466371245078" />
   </component>
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://youtrack.creatriks.si:8080">
