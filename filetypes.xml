@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="dqdwqdw" type="PLAIN_TEXT" />
+      <mapping pattern="codeigniter" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser_allstatus" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser" type="PLAIN_TEXT" />
