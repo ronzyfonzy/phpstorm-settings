@@ -7,6 +7,7 @@
       <mapping pattern="integration_parser_allstatus" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser" type="PLAIN_TEXT" />
+      <mapping pattern="tet" type="PLAIN_TEXT" />
       <mapping pattern="report_assignments.sql" type="PLAIN_TEXT" />
       <mapping pattern="qwdq" type="PLAIN_TEXT" />
       <mapping pattern="facility" type="PLAIN_TEXT" />
