@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/ronzyfonzy/drotpirsna.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Ronzy@bitbucket.org/snippets/Ronzy/b46X4/postman-global-test-functions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ronzy\Development\personal" />
+    <option name="cloneParentDir" value="C:\Users\ronzy\Development\creatriks" />
   </component>
 </application>
