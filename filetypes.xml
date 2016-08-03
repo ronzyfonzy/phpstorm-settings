@@ -12,6 +12,7 @@
       <mapping pattern="qwdq" type="PLAIN_TEXT" />
       <mapping pattern="facility" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser_ooobyreason" type="PLAIN_TEXT" />
+      <mapping pattern="email" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser_remote-database" type="PLAIN_TEXT" />
       <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
