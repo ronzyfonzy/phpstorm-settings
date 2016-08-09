@@ -52,7 +52,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a2d78632-8317-4a11-8008-0640504df266" name="AWS - Production" url="http://52.28.212.212">
+      <webServer id="a2d78632-8317-4a11-8008-0640504df266" name="AWS / P-1.0.5" url="http://52.28.212.212">
         <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -92,7 +92,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="8b2ea3a4-1822-428c-a33f-1919569bc93e" name="AWS - Staging" url="http://52.28.212.212">
+      <webServer id="8b2ea3a4-1822-428c-a33f-1919569bc93e" name="AWS / S-1.0.5.050" url="http://52.28.212.212">
         <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -102,6 +102,30 @@
       </webServer>
       <webServer id="bec91658-c31b-4de8-bc90-7aaaf167dfd8" name="Facility Development Integrations" url="http://188.226.179.219">
         <fileTransfer host="188.226.179.219" port="22" rootFolder="/home/" accessType="SFTP" password="dfd3dfffdfebdf9edff3dfc8dfc0df85df87df81dffadfe9dff3dfebdfe7df94" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3efd9f40-76ef-48a2-85d2-a6b98e32e2fa" name="AWS / P-1.0.6" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4fbb92e8-418c-4198-a104-888dc50b9750" name="AWS / P-1.0.5.050" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d4eea89a-7885-4511-956c-81b6a5a2a595" name="AWS / S-1.0.6" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/Dropbox/Facility/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" username="ubuntu" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
