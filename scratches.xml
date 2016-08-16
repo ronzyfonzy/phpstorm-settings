@@ -130,6 +130,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.sql" value="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34.sql" value="MySQL" />
@@ -279,5 +280,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_92.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_93.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_94.sql" value="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_95.sql" value="MySQL" />
   </component>
 </application>
