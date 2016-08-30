@@ -3,6 +3,7 @@
     <option name="taskBranches">
       <map>
         <entry key="F-396" value="feature/F-396-archive" />
+        <entry key="F-404" value="feature/F-404-new-ftp-implementation" />
       </map>
     </option>
   </component>
