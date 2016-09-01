@@ -133,6 +133,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30.sql" value="MySQL" />
@@ -190,6 +191,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_42" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_42.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_42.sql" value="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_42.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_43" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_43.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_43.sql" value="MySQL" />
