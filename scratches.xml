@@ -78,6 +78,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_133.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_134.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_135.sql" value="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_136.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.php" value="PHP" />
@@ -393,7 +394,9 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_96.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_97.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_97.sql" value="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_98.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_98.sql" value="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_99.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_99.sql" value="MySQL" />
   </component>
 </application>
