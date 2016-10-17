@@ -4,6 +4,7 @@
       <map>
         <entry key="F-396" value="feature/F-396-archive" />
         <entry key="F-404" value="feature/F-404-new-ftp-implementation" />
+        <entry key="F-529" value="feature/F-529-integration-checker-update" />
       </map>
     </option>
   </component>
