@@ -3,6 +3,7 @@
     <option name="taskBranches">
       <map>
         <entry key="F-396" value="feature/F-396-archive" />
+        <entry key="F-401" value="feature/F-401-facility-docs" />
         <entry key="F-404" value="feature/F-404-new-ftp-implementation" />
         <entry key="F-529" value="feature/F-529-integration-checker-update" />
         <entry key="F-580" value="feature/F-580-expired-products" />
