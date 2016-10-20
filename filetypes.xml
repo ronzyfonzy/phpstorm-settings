@@ -30,6 +30,7 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="auth" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
