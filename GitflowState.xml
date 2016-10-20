@@ -7,6 +7,7 @@
         <entry key="F-404" value="feature/F-404-new-ftp-implementation" />
         <entry key="F-529" value="feature/F-529-integration-checker-update" />
         <entry key="F-580" value="feature/F-580-expired-products" />
+        <entry key="F-585" value="feature/F-585-migration-lostfound" />
       </map>
     </option>
   </component>
