@@ -4,48 +4,8 @@
       <webServer id="6fc84662-447d-4f3a-84ff-65518d4128fe" name="Facility" url="https://loc.facilityforhotels.com:8080">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="c79e439b-9163-4c45-9507-1ce5ef718bab" name="MXGear" url="http://mxgear.si">
-        <fileTransfer host="mxgear.si" port="21" rootFolder="/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a201e61b-25c7-400c-b496-bc2a00b211b9" name="Lono - VilaDev" url="http://vila2.lono.si/">
-        <fileTransfer host="vila2.lono.si" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="3fcad1e0-1977-4a5f-9d06-67db7ea178be" name="Facility Development" url="http://188.226.179.219">
         <fileTransfer host="188.226.179.219" port="22" rootFolder="/var/www/facility" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="54514f74-65de-422e-a713-a01e42ee4e2b" name="Lono - MXGear" url="http://vila2.lono.si/">
-        <fileTransfer host="lono.si" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="54a26075-b26d-4983-834f-2fd233c70a61" name="Lono - VilaPub" url="http://nepremicnine-konjice.si">
-        <fileTransfer host="nepremicnine-konjice.si" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="759da433-1c56-47c2-a8a6-9c4008a8d9f6" name="Facility MDM" url="http://178.62.229.143">
-        <fileTransfer host="178.62.229.143" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/facility" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -66,14 +26,6 @@
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="484c5ef4-85c1-4181-9d85-3eebfc66f687" name="MyHetzner" url="http://88.198.150.197">
-        <fileTransfer host="88.198.150.197" port="22" rootFolder="/var/www/bbnatura" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="0cfe5ba5-a8db-477e-938b-1a84dbfed060" name="AWS - Production Node" url="http://52.28.212.212">
@@ -215,6 +167,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>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</data>
+    <data>AAAFQJBPBvFJR64jsc9rTr66OvYchCxyLdfUegGGYJRAaeDoL6+FS/D/Fh+qm7qBGMLdj9hvN89+We+QrLd5zBZy90aZYQ/UVsURkc3l8UEg0Ndg1MfQAeIF/cOH7ybLrUtunZBKisxJWR7LgVN2gGKL7pqffR9EUEuq5JT8sNA08nxX7WZgwuMU+rMEvabvRDIBtqVTq7Kzh2RgoccVrX4mL8LjTvbSz3rkBjyOkYrYeliQsbndAJh6RwKOkrioRpKzC+vEaTmMCxKBYJzTKo897PiuQ2Wvw351SLVTxjt+OaLn2DRJ3oNeUSO/e0bawoK6WEK7Sozox+xjQ/rl4sJW67+WIjAz5/BOWGebmjAxC1usm1+r+rLR/fNTo+mZRHtMktvqq0hVzfOFnnWVcBrQhrMf9DooehKSGl9O1AxFswf70h6Y+5+IvyzWNeIKt5oV5+raH1YWb4x+QHb9CJlFxMaJwfOj+E5viH4dY+LPR52njo61qjDVGaNeADvos4pq3JRKQY353CVSVQoABw4WJwiOkklV0xDWSJs8Af7wbb0pJo3xjIeUt/2teaVFHrXsE+7eQhViU/DJV0z0yDfnqQb+sFN6H9YQloV/Y+Q869l0upaWSiQkudkKwGAzdsEQOvq6iDLI+Ofi8Ldkqkhb5D1Ui/s4CyUaWc2tDNCStG4GKD0ghNlxiW0PrSGRG4yebVTVJprA5BmSL0QY4AsB5Da+Cc/TK+e5YbRJczA6nXAH7vcqMctIi1wIqz4Erp1EwMMN3mX9aJCMFCMnJHAEIYv4gTArk2tIgIhp/QzO+UOjwvwLyhSid5gJJ3+ALmrZlr5qCfOAHp5wlv0aEA+u/VaNP1m/8P3G1/FBn5zCXFe4PXskX+RnpcrmXzI8nE2R2TkO2uNy7Ct6ExxjfKIS7sdYTLYH1FQfNgWU5DeAmRRj+igNx2SzkVlABWXKsTJXyQ1rpYAXmsvAYdgYkq72T0x6Q/cjklA2JrK8Lu9a3q3LGMMM7ND4VXjDWJrxYOOi7gQd1Cn6WeZ/klWk30Id1fIq6p7mKeErfw8VoPgTDMCqs2Y+FapPIqA1Ozh6ETBkJsRwIv7WWe8Pax0lUrTkIJIcTcIT6uzbSNHhSNlirq5NKUk0lntr2RBUtI90o4pXjQzvLVEwkLjWBV8W3MrDPWl+BT4llFGpeZNMZthmCMXTMURjx9wGUgfwc45huYrb/oaNt6I3Be0o0H2b3RhypivHsAThl6OB62wQU7GNPsAOmDkK0YPOlc8a+3QZpxSMCKtai0KmsoEa5Yzii3gdOn6lJJ7Tm+Jb8NawIOI5Sri6ZXRcPsUQDyQ//nkBpq8HDhJQlk3+BiVMINTsvS255xklLy4/fdBZU/46aySZ7gbvIXQK0a9Aklwi7/t1sub2sa+0gMS03P1sNuMM08604CzDwFzmKvWfsIx5c7++/GwnuZhjgWmk05Hl8hBYeP84u54zQaVA4x7Qdwok22lrbB5SWcurwnvSu65tl0gPlSEICk+2wuDpxTxhOr/0hU7Y+S+j8R6KPijXW/bs9wxy3ysVnKLYU/XZfEq66HcSLjb7DvZW0zFPErqCfuyG399r8um+CKG0HwR9EZADX1Q/w7QVgmR0/BxLOtK537oiyA0qyBqVAI+2fBRY2tFcPTaJrhwv2tGMl37F/+ShxANF3+N3Gpke67cQUNJCw7PnsfoAHo9Zduya0wTwFKKvvKBfEVx6DiMfMe7wVxFaNrhmj6W8lpbToXDeAShxaqaqEr1nkXeTLzE97mpghEnKHMdj2QC/i2LNJgUU0ZLJ/EHz5tU=</data>
   </component>
 </application>

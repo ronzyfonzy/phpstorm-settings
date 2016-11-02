@@ -10,6 +10,7 @@
         <entry key="F-580" value="feature/F-580-expired-products" />
         <entry key="F-585" value="feature/F-585-migration-lostfound" />
         <entry key="HD-228" value="feature/HD-228-protel-bugfix" />
+        <entry key="HD-233" value="feature/HD-233-maintenance-parts-sync-mat" />
       </map>
     </option>
   </component>
