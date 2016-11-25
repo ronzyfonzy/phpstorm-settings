@@ -164,9 +164,25 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0f33c86b-789d-4f26-b8fd-559574953ede" name="AWS / Prod-1.0.8" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/ownCloud/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="18876e97-0067-4ec2-8051-1048149e1d2e" name="AWS / Stag-1.0.8" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/ownCloud/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAFQPek9uNcimF5AzjkRo4AvBIRCx1smxdlkxGNAeAEx6k7AuUVyana9tdqSGTl+I9wT1g33TtA+EYQVhjDrizueDx/rUOA7iK2wZ1Ily1Jrcb/QyePAuFl4gwuMxJIaGp7NvStrpsWJeT6PCA6eW+KsaQ3eXFLchtvOBjQEcVKrQrlQSjRGH4LPQszYEJVQEPSr7imSOF2VKMfg+AemcPg/z7JDV97GkY4kH7X1E0qGkRa9lDciZULeoesnqO2mzN1wiMVv8OVBliJHZdLGDU/pg4FzLxCQwqeqePU6bRZgh45W4UBSDA9OfzN+sLpO0z7izciDZv/ZoQ0qep3GbjPzZ6wEPXAFlXu47D9B/51YJS2lB5/cz1FVSd/Jly9hGmboj/9LgspOFl5axD9th03OUI+5CAx02fMBqQjQQdKPtkU5+/g3TLug0XVCpqYw31YOa1rc9TnF/B5Ap5Z44lkuc/UTsRGLiwNQGLFcSiYv3WG7iwWhTjHyC9eK1pM4M302x4OmIfyaG2u81EnBEkqZPO7PmosYxGaByOeHQtxJfXhYCEr4WaWrkpieot3uYQonvfR2r7DLObM45Q/lBDEFNvN1mZoxiK3kY0MNv1H0tiD6TMJy2DqpVkZqyt1toMUfhvqh8Qld/hTCklUbf7LjQjntvjDjKf5bvUrqHa+RUXmPrKjcITrro3CW7cG+bs2rmc/ssJuBNjRuh+1bpSXi3v3GAWXQo+cYTjMgRwsrDiC/c9VwIkHrJYhgsjw9Zh69NGsoxz19eCxLMUZq+Huz/u4VfmXk/eWz++nyjrUdgsuo3VM+7Ofj1s2WOPETFcD9vFwrCqBUGW758SIBt//FWG86WWhZeT0a6QdShf9wsrP5qSXNyI60aHHaaVKtumVJSy5SZU19yHO1zK8WvBJKkUDK9MqCzZseAA/pYG2QsS2c54+Sa0kAXcVteRYepWqDCBGEG3vAqTrmuKLi6bQ/20yMlIkuCv3xs0/aXo0Qk8pxqsCHgB+8b8jimxPzRO+S3XJbNF73AqaTzloXNge6XzUeBY37LoR6CAuUcQFH1b51wdM6iHcVDcaOF9x78yn1DQY6CuQEshdE2GykWukWDqnuUDLo3YAA4MHCSrlGMM4KuPp7VBd+M6w0CWNknGh0qiSdX19JilXQLMbK7qroiRfXQtqePv728g2ojWYTGURXf/Z+SU3wDAKNKHx3UFM6nHHbvd/lxJovHA6YzgvRUyD6/VbsrwGES0NZpjWu3+fZwNpPB0Xe3fPrGCYhZyQbQ2DEuWlmq87AWZQDbF0vMKrFtw3sZFJ5Ep2c3Q4OsHhXGNCh2pJMq8QoEl9frShbQYf8kACd84cvDNZDWPO+N1EQVGmpgJD+rYZz40HcPz2JdFDow2eRzUTBpRMOMY7g1AAvekfFDPwx0AZy0vo3KJ1XN5Ed1M8jxMplfsxK1VoTYeXMYdOQTYKD2XHwkbjlL3tZjSSouPnks4pQ0thrv7W1h2Uy9wODQDdW6LD0hv17KDweLnX5kRX+gfJ7PSXwgb//KGwFjQ4F8dYaZCvdCk9nuIMIJnXczFegiwe6gsQ4cUlLt/jH5d0KFywCjwFxaytb+U/wI63g79CE41QzsKfw309hzNIhxxUVxfzIUk0I6YSDUBJkOS1yJix1CMtPNKaHAj3a68V9QjOY5e30br5pH2vvs+TBmw9goEAT4F3DzLVZr9zwDnc+nBOSHFfsyyCr6mP/zAeA/p4YkRDQ2P4+pjG0VSIku0AWYhyX3yIEHdU1AfDqHKtqWrS98VdIcZGl/CSwvqj9pDFrodCUzo=</data>
+    <data>AAAFoFgqDz6mQc1HbeNwdftY2Z6GhaLDnPhLELEX1+VDqs6eK0f4gxPlhY7GFeoYT3rbYw1SJMqx8Y2bdCgBOHSRZ7XY/ai0Qn7lsraA485/+lpqSpioEIG6eITpfDjH3hfaLoCUlnpl7xHVldsF4lo9spXU1jD/Hci1UdSZUest5aiVdT0cotXbyZmhODOHtAULRyFBEo21T6sDtJX2WTlnm48BKxjrNXbgFhTt0tnwVL5PYVKstjHgQhGPN0lket8pCklrtEqkRMnpu9OeBKDH+G2VeSiicBcEi/fBE/loCdayzwZ7Pj8DNz1XhHXfDgmZrHK8rbBuA4pAD1voZDXRu9ly+dRKDKQJzAhz6VKeW93JONIlFVlrXDfcUF1YZ+A0iv0H/YYX3YB31KO8IB1MVVBXzWNfHUkeKwPdX//XH/7BgRAxUIN1olPhuCjxTSmCQvzzrySMjPXVHVGqOsJ1OW4qPLviMb9yFYb44qL78bIA8lqq+QVxr8V19uRAG3dAYxBDVQzVC9U7sEMiZ5oQYTPMW0UW0046dVt5SHRhRq4hyowBtuPrFa41x+O2OTTcDNCCzEqU4zHIGNCSARi7pAyB0LsbHg5uMKkKuKxInxHvTQO8waF1940dSXpLI1TyxbAvtXG+71iMEvtUAn2kpHKx8Ehs9AfGiL08vdr1Th8jSP2SDkmQDXX/bdUadn7HhFhoAe2X+drLZgip+uNhVH7b9AhZGYnR9ve78kzF4qd0kbQl1jFpNWi/t7pgfU2gygMCiQl4KexE7U1+93+UUOEXtI4Q5shcy84EFDh9MqWE0IGQG5gOEpREBTpbfxdgk1FUp/z1+Ta/LAL5GHSFCM6VN/zJTQfsP5doN8MC0e8qqzS7X/c2JIgb6iL5djr1E1FNHIMwWNnDZCL2rlcWPea1o5jia5wcSaNY51cEF8SW3CKLjCQr+kGJFN5EHTAuWKqau52WMZqV4EcJreL04s8VF9zwTfMJYVCfaiGuQmX0wJK6QvzqrcnTWzHotfEOzoE3i5iNb+NVsKBXoDvyFuGloau4+bxTSYonMheB2c4vkeacvxFOfWMF24gYHa9Lz/pT3rQtzVnOdlJM4HFnKO5ufZpM9vih1B+fwgyy2ge4Qmfo9JjkuvnziOY+Zenaa6r96Se11mXns0EuzGR+e0px2YrvigJcuTRQOtQf/MjlnTkQrov2keO0i8hdGo75wHD4yK1i0311b47SeUOWmV6ejat7zgN43FxK8ifwiAabpYKWT2gQvRU0v32o8UxR2wnj7TGwYyE3jRDhg2y4OxDlJ8CX2nr8aCb4io2dgvymNNKxwb2xro+B5cAfZKy4R0uH6qRNzuajsaZuKiGwWFbXlXruVU3+CuNEGjvaeFaBrd8PX3O+dNT16oleCvMcfje/D0RbWmmVCsoE8rKBYV/1nkEUPShBVODUa7mhydSKZ8DPqL+ed8Y1F6z1KRId81GFpPCGl2LwAvcv5qj8f5hpiinRinp/tTcJvqjQiKc/xwey2lt9DgDcSEWHz9Wp8vdJaghClE/r4pJm0uQ/6Z9T3gMJo/mf7MKK9KZ7bnq2xdGNjUYf4KXS7ZdSTI4jyybIWhwIeoXVIW9LHteGOwYZQkQDqy2bxZ1kYfdinFmSXt+VKtai9c9prB/cHwLYVVExktgKOuGrBRDfn0DWM/YBIxnM0IBDW1b28yockiNbr6m37lC6XosIFY5Aw3yhMrLYmIIxNJCAvti5y5glEHWhv5blViyeLY+1M93UyziiCXv1IHuk51kv28r4aKBeEXlYeFD/I5iZquInxBggC7xUJiWkXPZLX3PPm/dd/XfFx7ESwtXsKvLZWBWZlCYq+3KYianvdNj13fl9pO+upvVLm+qBnSmx016U9E4lYARjb0TSwQy+2ZWIaTgJQuSGbaRCVOe3cxEqJLFDgm3h4Co=</data>
   </component>
 </application>
