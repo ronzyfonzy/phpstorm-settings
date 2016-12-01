@@ -114,7 +114,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="-output=$FileDir$\postman_collection.html -collection=$FileDir$\$FileName$ -ignored-response-headers=&quot;Connection,Date,Server,Transfer-Encoding,Vary,X-Powered-By&quot;" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="" />
