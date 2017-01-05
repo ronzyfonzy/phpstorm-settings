@@ -1,9 +1,9 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache -E &quot;UTF-8&quot; --sourcemap=none --update --style compressed $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="-E &quot;UTF-8&quot; --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .sass files into .css files" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
