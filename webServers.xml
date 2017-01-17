@@ -196,6 +196,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="24e4b9d1-f659-4443-885c-3987a4587e64" name="AWS / Center TMP" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/ownCloud/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
