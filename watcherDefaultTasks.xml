@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="-E &quot;UTF-8&quot; --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -133,23 +133,42 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="-E &quot;UTF-8&quot; --update $FileName$:$FileNameWithoutExtension$.css" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="-E &quot;UTF-8&quot; --update $ProjectFileDir$\assets\css\style_v3.scss:style_v3.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Facility Style Copy" />
-      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="output" value="" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby22-x64/bin/sass.bat" />
-      <option name="scopeName" value="Unnamed" />
+      <option name="scopeName" value="Facility Style" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="workingDir" value="$ProjectFileDir$/assets/css" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="-E &quot;UTF-8&quot; --update $ProjectFileDir$\assets\css\style_v3.scss:style_v3.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Facility Style Updated" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Ruby22-x64/bin/sass.bat" />
+      <option name="scopeName" value="Facility Style" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$ProjectFileDir$/assets/css" />
       <envs />
     </TaskOptions>
   </component>
