@@ -114,10 +114,10 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="-output=$FileDir$\postman_collection.html -collection=$FileDir$\$FileName$ -ignored-response-headers=&quot;Connection,Date,Server,Transfer-Encoding,Vary,X-Powered-By&quot;" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="json" />
       <option name="immediateSync" value="true" />
@@ -127,7 +127,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$ProjectFileDir$/documents/integration/generators/postmanerator.exe" />
+      <option name="program" value="$USER_HOME$/Development/creatriks/facility_web.git/documents/integration/generators/postmanerator.exe" />
       <option name="scopeName" value="Facility API docs" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
