@@ -204,7 +204,15 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="4c2abad2-6b1e-4f21-930c-4058e780ce2e" name="AWS / SC / Stag-1.1.0" url="http://52.28.212.212">
+      <webServer id="4c2abad2-6b1e-4f21-930c-4058e780ce2e" name="AWS / SC / Stag-1.0.9" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/ownCloud/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/showcase" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a4dea4ae-3d23-43d5-9c49-ac679f228c1e" name="AWS / SC / Prod - 1.0.9" url="http://52.28.212.212">
         <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/ownCloud/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/showcase" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
