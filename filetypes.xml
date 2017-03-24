@@ -10,12 +10,12 @@
       <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="sql_views" type="PLAIN_TEXT" />
       <mapping pattern="background_mail_1480411662455" type="PLAIN_TEXT" />
+      <mapping pattern="facility-showcase" type="PLAIN_TEXT" />
       <mapping pattern=".file_upload_cache" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser_allstatus" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="hotel_user_menus" type="PLAIN_TEXT" />
       <mapping pattern=".env.pgsql" type="PLAIN_TEXT" />
-      <mapping pattern="codeigniter" type="PLAIN_TEXT" />
       <mapping pattern="report_assignments.sql" type="PLAIN_TEXT" />
       <mapping pattern="view_assignment_items_inner" type="PLAIN_TEXT" />
       <mapping pattern="facility_schedule" type="PLAIN_TEXT" />
@@ -27,13 +27,13 @@
       <mapping pattern="dqdwqdw" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser_remote-database" type="PLAIN_TEXT" />
+      <mapping pattern="codeigniter" type="PLAIN_TEXT" />
       <mapping pattern="qwdq" type="PLAIN_TEXT" />
       <mapping pattern="integration_parser" type="PLAIN_TEXT" />
       <mapping pattern="tools" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="sqli" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="auth" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -42,6 +42,7 @@
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
