@@ -244,6 +244,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="85ca33c1-8b34-403c-b0be-aa00c83e6a7d" name="AWS / TEST-1.0.8" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="$USER_HOME$/ownCloud/Facility_Robi/AWS/facility-ec2-production.pem" rootFolder="/usr/share/facility/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
