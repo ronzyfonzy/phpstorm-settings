@@ -149,7 +149,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="728e3d1f-c7cc-4cdc-b05c-2038fce1380f" name="AWS / DEV 01" url="http://ec2-52-29-241-237.eu-central-1.compute.amazonaws.com">
-        <fileTransfer host="ec2-52-29-241-237.eu-central-1.compute.amazonaws.com" port="22" privateKey="C:\Users\ronzy\ownCloud\Facility_Robi\AWS\facility-ec2-development.pem" rootFolder="/home/ubuntu/facility" accessType="SFTP" keyPair="true">
+        <fileTransfer host="ec2-52-29-241-237.eu-central-1.compute.amazonaws.com" port="22" privateKey="C:\Users\Robert\ownCloud\Facility_Robi\AWS\facility-ec2-development.pem" rootFolder="/home/ubuntu/facility" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
