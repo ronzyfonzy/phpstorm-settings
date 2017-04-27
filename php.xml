@@ -4,19 +4,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///home/ronzy/Development/creatriks/facility_web/usr/bin/php" id="6865d2b3-a9d0-4923-a333-fac296b665ee" name="Remote PHP" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Development/creatriks/facility_web" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="vagrant:///home/ronzy/Development/personal/eGodba/usr/bin/php" id="ba4bb588-47e5-478a-b970-b1509c6ed171" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Development/personal/eGodba" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="vagrant://C:\Users\ronzy\Homestead/usr/bin/php" id="17c0b55b-cb33-4d77-9c4b-edccebf212fa" name="Remote PHP 7 Personal Dev" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="C:\Users\ronzy\Homestead" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
