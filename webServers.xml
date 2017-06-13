@@ -300,6 +300,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="54e0c89b-5c78-4dfe-8ce8-46b0931b8739" name="AWS / MicrosClient" url="http://52.28.212.212">
+        <fileTransfer host="52.28.212.212" port="22" privateKey="C:\Users\Robert\ownCloud\Facility_Robi\AWS\facility-ec2-production.pem" rootFolder="/home/ubuntu/facility/node" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
