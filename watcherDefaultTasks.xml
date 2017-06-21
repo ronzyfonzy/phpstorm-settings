@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="-E &quot;UTF-8&quot; --update $FileName$:$FileNameWithoutExtension$.css" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--no-cache -E &quot;UTF-8&quot; --sourcemap=none --update --style compressed $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -13,8 +13,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby22-x64/bin/sass.bat" />
-      <option name="scopeName" value="Facility Style" />
+      <option name="program" value="C:/Ruby24-x64/bin/sass.bat" />
+      <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
@@ -79,7 +79,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-cache -E &quot;UTF-8&quot; --sourcemap=none --update --style compressed $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .scss files into .css files" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
@@ -89,8 +89,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby22-x64/bin/scss.bat" />
-      <option name="scopeName" value="Facility Print" />
+      <option name="program" value="C:/Ruby24-x64/bin/scss.bat" />
+      <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
