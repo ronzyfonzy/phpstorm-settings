@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="--no-cache -E &quot;UTF-8&quot; --sourcemap=none --update --style compressed $FileName$:$FileNameWithoutExtension$.css" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="-E &quot;UTF-8&quot; --sourcemap $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby24-x64/bin/sass.bat" />
+      <option name="program" value="C:/Ruby24-x64/bin/scss.bat" />
       <option name="scopeName" value="Facility Style" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
