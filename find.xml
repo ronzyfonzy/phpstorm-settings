@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="src" />
-    <option name="defaultScopeName" value="src" />
-    <option name="SEARCH_SCOPE" value="src" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,13 +25,13 @@
       <mask>php</mask>
       <mask>*</mask>
       <mask>*pp</mask>
-      <mask>*.php</mask>
       <mask>*p</mask>
       <mask>*ph</mask>
       <mask>*php</mask>
       <mask>*.sql</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
