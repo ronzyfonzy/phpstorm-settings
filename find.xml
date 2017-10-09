@@ -32,8 +32,8 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
-      <mask>*.sql</mask>
       <mask>*.php</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
