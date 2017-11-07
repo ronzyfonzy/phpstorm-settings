@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -34,9 +34,9 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
