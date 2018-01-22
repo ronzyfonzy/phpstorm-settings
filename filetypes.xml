@@ -3,9 +3,11 @@
     <extensionMap>
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-70" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="assignment_generators" type="PLAIN_TEXT" />
       <mapping ext="loc" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
