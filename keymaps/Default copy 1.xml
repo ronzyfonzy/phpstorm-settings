@@ -5,6 +5,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -22,6 +23,9 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoBookmark7" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl alt u" second-keystroke="ctrl alt f" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -32,6 +36,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
