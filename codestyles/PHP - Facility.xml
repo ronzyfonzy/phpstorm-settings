@@ -1,22 +1,21 @@
-<code_scheme name="PHP - Facility">
+<code_scheme name="PHP - Facility" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_TEXT_WRAP" value="0" />
+  <CsvCodeStyleSettings>
+    <option name="SEPARATOR_INDEX" value="1" />
+  </CsvCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_TEXT_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
@@ -37,7 +36,7 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
@@ -48,6 +47,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="500" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JSON">

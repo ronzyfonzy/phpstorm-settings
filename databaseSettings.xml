@@ -1,17 +1,32 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="3">
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="?\d+" />
         <parameter-pattern value=":(\w+)" />
-        <parameter-pattern value="%\w+" scope="JAVA" />
+        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="%name" />
         <parameter-pattern value="$\{[^$\{\}]*\}" />
         <parameter-pattern value="$\w+$" />
-        <parameter-pattern value="#(\w+)#" scope="XML" />
+        <parameter-pattern value="#(\w+)#" scope="XML" predefined="#name#" />
+        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL" predefined="$a.b.c$?" />
+        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL" predefined="#a.b.c#?" />
+        <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="%(name)s" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="${name}" />
+        <parameter-pattern value="\$\(([^\)]+)\)" predefined="$(name)" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Semicolor Separated" id="17eb4324-15a4-436f-82e1-9cb22c4e6da2">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+      <csv-format name="Tab Separated Values (TSV)" id="Tab-separated (TSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -21,7 +36,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma Separated Values (CSV)" id="Comma-separated (CSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>

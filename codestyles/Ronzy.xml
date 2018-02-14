@@ -1,21 +1,14 @@
-<code_scheme name="Ronzy">
+<code_scheme name="Ronzy" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
@@ -35,7 +28,7 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
@@ -82,7 +75,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
