@@ -14,6 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby24-x64/bin/scss.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Facility Style" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="sass" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Print Css" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -52,28 +54,30 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/scss" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Sass" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--source-maps --out-file $FileNameWithoutExtension$-compiled.js $FilePath$" />
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist --source-maps --presets env" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Transpiles ECMAScript 6 code to ECMAScript 5" />
-      <option name="exitCodeBehavior" value="NEVER" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="js" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="$FileNameWithoutExtension$-compiled.js:$FileNameWithoutExtension$-compiled.js.map" />
+      <option name="output" value="dist\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.js:dist\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.js.map" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/Development/creatriks/facility_redesign/node_modules/babel-cli/bin/babel.js" />
+      <option name="program" value="$USER_HOME$/Development/personal/spaceinvoices-api-client/node_modules/babel-cli/bin/babel.js" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="false">
@@ -90,6 +94,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby24-x64/bin/scss.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -109,6 +114,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$ProjectFileDir$/documents/integration/generators/postmanerator.exe" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Facility API docs" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
@@ -128,6 +134,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/Development/creatriks/facility_web.git/documents/integration/generators/postmanerator.exe" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Facility API docs" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
@@ -147,6 +154,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby22-x64/bin/sass.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Facility Style" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$ProjectFileDir$/assets/css" />
@@ -166,6 +174,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby22-x64/bin/sass.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Facility Style" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$ProjectFileDir$/assets/css" />
