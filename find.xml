@@ -18,6 +18,7 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.p</mask>
+      <mask>*.tpl</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
