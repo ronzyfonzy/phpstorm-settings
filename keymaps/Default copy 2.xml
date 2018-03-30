@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
+  <action id="CloseContent" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
@@ -10,6 +11,14 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SavaAs" />
