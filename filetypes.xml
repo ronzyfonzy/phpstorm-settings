@@ -12,6 +12,7 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="pcf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
