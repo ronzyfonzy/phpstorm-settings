@@ -5,6 +5,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile72" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile70" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-bitbucket-pipeline" type="PLAIN_TEXT" />
       <mapping pattern="assignment_generators" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile56" type="PLAIN_TEXT" />
