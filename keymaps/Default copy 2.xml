@@ -7,6 +7,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DumpLookupElementWeights" />
   <action id="EditInspectionSettings">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -20,6 +21,9 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="PublishGroup.DownloadFrom">
+    <keyboard-shortcut first-keystroke="shift meta alt w" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SavaAs" />
   <action id="SelectAllOccurrences">
