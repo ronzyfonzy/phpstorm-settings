@@ -12,9 +12,10 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_TEXT_WRAP" value="0" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
@@ -43,13 +44,30 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="1">
+  <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="SUBQUERY_CLOSING" value="6" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="3" />
     <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="1" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="6" />
+    <option name="FROM_EL_LINE" value="0" />
     <option name="FROM_EL_WRAP" value="2" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
