@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile-70" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="deadlock" type="PLAIN_TEXT" />
       <mapping pattern="flexkeeping" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".supervisord.conf.swp" type="PLAIN_TEXT" />
