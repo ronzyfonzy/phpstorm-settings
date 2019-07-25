@@ -1,7 +1,39 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="assignment_generators" type="PLAIN_TEXT" />
+      <mapping pattern="1562103647" type="PLAIN_TEXT" />
+      <mapping pattern="sync_cache_helper_file2" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-bitbucket-pipeline" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-70" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="deadlock" type="PLAIN_TEXT" />
+      <mapping pattern="flexkeeping" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".supervisord.conf.swp" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile70" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile72" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-bitbucket-pipeline-js" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile56" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="loc" type="PLAIN_TEXT" />
+      <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="pcf" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
