@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="826ac66b-761f-4ea1-81ab-9bf11551df20" name="AWS / DEV-01" url="http://3.121.69.29">
+        <fileTransfer host="3.121.69.29" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ubuntu/tools" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
