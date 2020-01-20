@@ -160,8 +160,7 @@
     <option name="SUBQUERY_CONTENT" value="2" />
     <option name="SUBQUERY_CLOSING" value="6" />
     <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
-    <option name="SELECT_EL_LINE" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="2" />
     <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="6" />
     <option name="FROM_EL_LINE" value="0" />
