@@ -26,6 +26,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ChangesView.Revert">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581512863254" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CloseAllEditors">
           <value>
             <ActionSummary>
@@ -261,8 +269,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581511552283" />
-              <option name="times" value="20" />
+              <option name="last" value="1581512820733" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -274,11 +282,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="PublishGroup.DownloadFrom">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581512825944" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="PublishGroup.UploadTo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581500172426" />
-              <option name="times" value="2" />
+              <option name="last" value="1581512866494" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +333,8 @@
         <entry key="Vcs.RollbackChangedLines">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499220607" />
-              <option name="times" value="1" />
+              <option name="last" value="1581512862404" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,24 +397,24 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581511555703" />
-              <option name="times" value="24" />
+              <option name="last" value="1581512823645" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581501070205" />
-              <option name="times" value="4" />
+              <option name="last" value="1581512833306" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499039619" />
-              <option name="times" value="6" />
+              <option name="last" value="1581512823393" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
