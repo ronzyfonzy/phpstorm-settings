@@ -237,8 +237,8 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581887718307" />
-              <option name="times" value="38" />
+              <option name="last" value="1581888986532" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581888158261" />
-              <option name="times" value="719" />
+              <option name="last" value="1581889035792" />
+              <option name="times" value="720" />
             </ActionSummary>
           </value>
         </entry>
@@ -637,8 +637,8 @@
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581888161277" />
-              <option name="times" value="169" />
+              <option name="last" value="1581889008814" />
+              <option name="times" value="173" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581500843075" />
-              <option name="times" value="6" />
+              <option name="last" value="1581889042835" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
