@@ -469,8 +469,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926473349" />
-              <option name="times" value="100" />
+              <option name="last" value="1581927099307" />
+              <option name="times" value="102" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926093864" />
-              <option name="times" value="3" />
+              <option name="last" value="1581927219590" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926467651" />
-              <option name="times" value="70" />
+              <option name="last" value="1581927095567" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -685,8 +685,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581593819748" />
-              <option name="times" value="2" />
+              <option name="last" value="1581927071489" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,8 +837,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1581872704246" />
-              <option name="times" value="11" />
+              <option name="last" value="1581927094447" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,16 +885,16 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581888087983" />
-              <option name="times" value="16" />
+              <option name="last" value="1581927196122" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926469463" />
-              <option name="times" value="102" />
+              <option name="last" value="1581927098409" />
+              <option name="times" value="103" />
             </ActionSummary>
           </value>
         </entry>
@@ -933,8 +933,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926469164" />
-              <option name="times" value="22" />
+              <option name="last" value="1581927097927" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581926098468" />
-              <option name="times" value="3" />
+              <option name="last" value="1581927225420" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
