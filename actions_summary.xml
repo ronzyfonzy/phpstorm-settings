@@ -269,8 +269,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106313179" />
-              <option name="times" value="690" />
+              <option name="last" value="1582115182046" />
+              <option name="times" value="696" />
             </ActionSummary>
           </value>
         </entry>
@@ -1231,6 +1231,14 @@
             <ActionSummary>
               <option name="last" value="1582008982920" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.terminal.TerminalView$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582115264205" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
