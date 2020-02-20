@@ -349,8 +349,8 @@
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582190024993" />
-              <option name="times" value="193" />
+              <option name="last" value="1582192680972" />
+              <option name="times" value="194" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191005180" />
-              <option name="times" value="50" />
+              <option name="last" value="1582192676732" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="Git.Branches">
           <value>
             <ActionSummary>
-              <option name="last" value="1582190342269" />
-              <option name="times" value="13" />
+              <option name="last" value="1582192261466" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,8 +1053,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582183904330" />
-              <option name="times" value="4" />
+              <option name="last" value="1582192679983" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -1253,8 +1253,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582190344366" />
-              <option name="times" value="12" />
+              <option name="last" value="1582192263273" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
