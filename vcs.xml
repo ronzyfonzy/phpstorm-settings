@@ -26,6 +26,10 @@
           <option name="url" value="https://Ronzy@bitbucket.org/snippets/Ronzy/b46X4/postman-global-test-functions.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="flex-robert" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ronzy\Development\creatriks" />
