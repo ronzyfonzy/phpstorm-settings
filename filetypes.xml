@@ -9,8 +9,8 @@
       <mapping pattern="flexkeeping" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".supervisord.conf.swp" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile56" type="PLAIN_TEXT" />
       <mapping pattern="deadlock" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile56" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile70" type="PLAIN_TEXT" />
       <mapping pattern="assignment_generators" type="PLAIN_TEXT" />
