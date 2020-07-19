@@ -16,5 +16,6 @@
     <mask>*.sql</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
