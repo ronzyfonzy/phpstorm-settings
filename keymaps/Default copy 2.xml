@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.UnshelveSilently">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
   <action id="CloseContent" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -16,6 +19,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -24,10 +28,12 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="PublishGroup.CompareLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift meta alt e" />
   </action>
@@ -45,6 +51,8 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
@@ -52,4 +60,8 @@
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="tasks.switch">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
 </keymap>
