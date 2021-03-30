@@ -1,8 +1,6 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
-  <action id="ChangesView.UnshelveSilently">
-    <keyboard-shortcut first-keystroke="shift meta u" />
-  </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CloseContent" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -19,7 +17,6 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift meta w" />
