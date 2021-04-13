@@ -5,13 +5,14 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="HTML_TEXT_WRAP" value="0" />
   <CsvCodeStyleSettings>
     <option name="SEPARATOR_INDEX" value="1" />
   </CsvCodeStyleSettings>
-  <DB2CodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -35,9 +36,11 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -61,9 +64,11 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -85,9 +90,15 @@
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <HCL-Terraform>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+    <option name="ARRAY_WRAPPING" value="1" />
+  </HCL-Terraform>
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -123,9 +134,11 @@
   <JSON>
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
-  <MSSQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -152,9 +165,11 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -176,9 +191,11 @@
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -222,9 +239,11 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -248,9 +267,11 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -272,9 +293,10 @@
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -298,9 +320,11 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="SUBQUERY_CONTENT" value="2" />
@@ -327,6 +351,9 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="HCL-Terraform">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="500" />
     <option name="WRAP_ON_TYPING" value="0" />
