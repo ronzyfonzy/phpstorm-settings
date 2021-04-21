@@ -419,7 +419,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="MySQL">
