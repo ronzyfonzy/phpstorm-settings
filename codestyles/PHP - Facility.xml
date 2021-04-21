@@ -90,6 +90,32 @@
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
   </H2CodeStyleSettings>
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="SUBQUERY_CONTENT" value="2" />
+    <option name="SUBQUERY_CLOSING" value="6" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="SELECT_EL_LINE" value="0" />
+    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="6" />
+    <option name="FROM_EL_LINE" value="0" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </H2CodeStyleSettings>
   <HCL-Terraform>
     <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="ARRAY_WRAPPING" value="1" />
@@ -348,9 +374,6 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SybaseCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="HCL-Terraform">
     <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
@@ -394,6 +417,10 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="80" />
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="MySQL">
     <indentOptions>
