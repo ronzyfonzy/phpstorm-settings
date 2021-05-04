@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="qd" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile-73" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-bitbucket-pipeline" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-bitbucket-pipeline-js" type="PLAIN_TEXT" />
       <mapping pattern="assignment_generators" type="PLAIN_TEXT" />
