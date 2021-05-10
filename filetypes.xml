@@ -26,6 +26,7 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="pcf" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="yml" type="YAML" />
       <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
