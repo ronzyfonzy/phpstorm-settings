@@ -18,9 +18,9 @@
     <mask>*.twig,*.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.tpl</mask>
     <mask>*.sh</mask>
     <mask>*.sql</mask>
+    <mask>*.tpl</mask>
     <mask>*.php</mask>
   </component>
 </application>
