@@ -34,9 +34,10 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="xlf" approved="true" type="XML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
-      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
