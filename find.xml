@@ -1,16 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
-    <mask>*.twig</mask>
-    <mask>*.json</mask>
-    <mask>*.twig,*.php</mask>
-    <mask>*.sh</mask>
-    <mask>*.tpl</mask>
-    <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
