@@ -260,6 +260,8 @@
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
+    <option name="IF_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
