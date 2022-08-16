@@ -22,10 +22,6 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="pcf" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
-      <mapping pattern="*playbook.yml" type="YAML" />
-      <mapping pattern="*playbook.yaml" type="YAML" />
-      <mapping pattern="main.yml" type="YAML" />
-      <mapping pattern="main.yaml" type="YAML" />
       <mapping ext="neon" type="YAML_EX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
