@@ -1,9 +1,4 @@
 <code_scheme name="PHP - Facility" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </value>
-  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <CsvCodeStyleSettings>
     <option name="SEPARATOR_INDEX" value="1" />
